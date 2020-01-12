@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.bg-img{
+    position: fixed;
+    left: -50%;
+    top: -50%;
+    width: 200%;
+    height: 200%;
+    z-index: -1;
+}
+
+.bg-img img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+}
+.login-area
+{
+
+	 background-color:#FFFFFF;
+	height:500px;
+    width:500px;
+ 
+
+}
